@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4df37b943e4ea944abdac8a534918325
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 5188421195052203852, guid: 4f92d4fec2a8f3c4cb4b4b3d95c5cd45, type: 3}
+  - enemy: {fileID: 567623098501924862, guid: 44cdc231bd911ec44acb261d2d716aa8, type: 3}
+  - enemy1: {fileID: 6662702586630741179, guid: b9c1ae00588885744b2f7f54497a0687, type: 3}
+  - cloud: {fileID: 4735551655687211995, guid: 98f131c5dd75e6941a88beec5d02286a, type: 3}
+  - powerUp: {fileID: 8288419228845898044, guid: fc70619e54df01a479b8de7a9a5e58f0, type: 3}
+  - coin: {fileID: 7292096267303898781, guid: f389fb9a677e11d4c8eee1f75e16112f, type: 3}
+  - health: {fileID: 206366757686416785, guid: f354d10db9ade3544bfa1e19a946eabf, type: 3}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - restartText: {instanceID: 0}
+  - powerupText: {instanceID: 0}
+  - explosion: {fileID: 2206989333032675194, guid: 94f32318982b7e5489caebe93c839da8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
